@@ -121,7 +121,7 @@ footer {
 }
 
 #title {
-  background-image: url("../../dist/img/header.jpg");
+  background-image: url("dist/img/header.jpg");
    background-attachment: fixed;  
 }
 
